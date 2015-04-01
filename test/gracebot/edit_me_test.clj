@@ -4,7 +4,7 @@
     [jubot.test :refer :all]
     [clojure.test :refer :all]))
 
-(deftest test-your-first-handler
-  (are [x y] (= x (your-first-handler y))
+(deftest test-hello-handler
+  (are [x y] (= x (hello-handler y))
     nil    {}
-    "bar" {:text "foo"}))
+    "hi there human" {:text "hello"}))

@@ -2,7 +2,7 @@
   (:require
     [jubot.handler :as handler]))
 
-(defn your-first-handler
+(defn hello-handler
   "Welcome to jubot!"
   [{text :text}]
-  (if (= text "foo") "bar"))
+  (if (= text "hello") "hi there human"))

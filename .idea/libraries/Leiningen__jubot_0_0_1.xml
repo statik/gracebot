@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Leiningen: jubot:0.0.1">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/jubot/jubot/0.0.1/jubot-0.0.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
